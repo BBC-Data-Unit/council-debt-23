@@ -63,6 +63,8 @@ Six months later, during the 2024 general election, the reporting featured in th
 
 ## Related repos
 
+In August 2025, the BBC Shared Data Unit [revealed](https://www.bbc.co.uk/news/articles/cq87497v8ypo) that councils in the UK had added £7.8bn to their growing debt pile in the space of a year. [The repo for that project is here](https://github.com/BBC-Data-Unit/council-asset-sales).
+
 In August 2023, the BBC Shared Data Unit [revealed](https://www.bbc.co.uk/news/uk-66428191) that a black hole in local authority budgets continues to grow, prompting fears some will not be able to provide basic services ([repo available here](https://github.com/BBC-Data-Unit/council-finances-23)).
 
 In July 2021, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-57720900) that UK councils faced a £3bn black hole in their budgets as they emerged from the coronavirus pandemic ([repo available here](https://github.com/BBC-Data-Unit/Council_cuts_during_the_pandemic)).
